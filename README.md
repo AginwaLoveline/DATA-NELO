@@ -2,6 +2,7 @@
 ## Udemy Course Analysis
 ### Insights
 
+Web development courses stood out as a major contributor to an increased number of subscribers and a significant share of the total revenue, generating 8M in subscribers and $631M in Total Revenue. 
 1. Lectures by subject
 2. Subject by review
 3. Subject by subscribers
