@@ -1,4 +1,4 @@
-# DATA-NELO
+# ONYX DATA CHALLENGE
 ## Udemy Course Analysis
 ### Insights
 
